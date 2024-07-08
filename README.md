@@ -52,8 +52,8 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - This helped me with Media Queries a bit.
-- [Example resource 2](https://appbrewery.github.io/flexboxfroggy/) - This is an amazing game which helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
+- [MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries) - This helped me with Media Queries a bit.
+- [Flexbox Froggy](https://appbrewery.github.io/flexboxfroggy/) - This is an amazing game which helped me finally understand Flexbox. I'd recommend it to anyone still learning this concept.
 
 
 
