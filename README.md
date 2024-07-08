@@ -27,8 +27,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://y-ashbhatt.github.io/qr-code-component-main/)
+- Solution URL: [(https://github.com/Y-ashbhatt/qr-code-component-main)]
+- Live Site URL: [(https://y-ashbhatt.github.io/qr-code-component-main/)]
 
 ## My process
 
